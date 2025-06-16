@@ -1,0 +1,107 @@
+[
+    {
+        "numero_cuenta": "12127575274454594108",
+        "tipo": "Ahorros",
+        "saldo": 13816545.59,
+        "moneda": "COP",
+        "cliente_correo": "procha@nicolas.org"
+    },
+    {
+        "numero_cuenta": "61206535594746728393",
+        "tipo": "Corriente",
+        "saldo": 11727133.09,
+        "moneda": "COP",
+        "cliente_correo": "flor89@hotmail.com"
+    },
+    {
+        "numero_cuenta": "56567750756459313838",
+        "tipo": "Corriente",
+        "saldo": 27302527.34,
+        "moneda": "COP",
+        "cliente_correo": "octaviosebastian@vidal-lozano.net"
+    },
+    {
+        "numero_cuenta": "75645867944877825628",
+        "tipo": "Corriente",
+        "saldo": 44301121.1,
+        "moneda": "COP",
+        "cliente_correo": "octaviosebastian@vidal-lozano.net"
+    },
+    {
+        "numero_cuenta": "68686050137724798794",
+        "tipo": "Corriente",
+        "saldo": 14860686.58,
+        "moneda": "COP",
+        "cliente_correo": "narvaezteofilo@yahoo.com"
+    },
+    {
+        "numero_cuenta": "70575651417796434399",
+        "tipo": "Corriente",
+        "saldo": 48022111.7,
+        "moneda": "COP",
+        "cliente_correo": "octaviosebastian@vidal-lozano.net"
+    },
+    {
+        "numero_cuenta": "66535348474291236325",
+        "tipo": "Corriente",
+        "saldo": 25261670.44,
+        "moneda": "COP",
+        "cliente_correo": "karco@samper.com"
+    },
+    {
+        "numero_cuenta": "13375833535288906045",
+        "tipo": "Ahorros",
+        "saldo": 12488076.63,
+        "moneda": "COP",
+        "cliente_correo": "simojulio@feijoo.com"
+    },
+    {
+        "numero_cuenta": "28789785661642537819",
+        "tipo": "Corriente",
+        "saldo": 35714540.87,
+        "moneda": "COP",
+        "cliente_correo": "noguesteofilo@hotmail.com"
+    },
+    {
+        "numero_cuenta": "72546540663481720009",
+        "tipo": "Corriente",
+        "saldo": 13754629.13,
+        "moneda": "COP",
+        "cliente_correo": "noguesteofilo@hotmail.com"
+    },
+    {
+        "numero_cuenta": "07930319039473434052",
+        "tipo": "Ahorros",
+        "saldo": 40471448.28,
+        "moneda": "COP",
+        "cliente_correo": "puribe@moya-luque.com"
+    },
+    {
+        "numero_cuenta": "37912324568826236972",
+        "tipo": "Corriente",
+        "saldo": 20774221.86,
+        "moneda": "COP",
+        "cliente_correo": "puribe@moya-luque.com"
+    },
+    {
+        "numero_cuenta": "13671561468384905683",
+        "tipo": "Ahorros",
+        "saldo": 39793028.63,
+        "moneda": "COP",
+        "cliente_correo": "arielortuno@sarabia.net"
+    },
+    {
+        "numero_cuenta": "90874848468417059647",
+        "tipo": "Corriente",
+        "saldo": 9773925.13,
+        "moneda": "COP",
+        "cliente_correo": "puribe@moya-luque.com"
+    },
+    {
+        "numero_cuenta": "43154932085549663298",
+        "tipo": "Corriente",
+        "saldo": 28993586.51,
+        "moneda": "COP",
+        "cliente_correo": "puribe@moya-luque.com"
+    }
+]

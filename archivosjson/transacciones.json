@@ -1,0 +1,107 @@
+[
+    {
+        "cuenta_origen": "75645867944877825628",
+        "cuenta_destino": "69632839536028332058",
+        "monto": 1876556.52,
+        "fecha": "2002-08-04",
+        "descripcion": "Pago de servicios"
+    },
+    {
+        "cuenta_origen": "12127575274454594108",
+        "cuenta_destino": "95292599690533135890",
+        "monto": 732435.99,
+        "fecha": "1976-01-24",
+        "descripcion": "Deposito mensual"
+    },
+    {
+        "cuenta_origen": "43154932085549663298",
+        "cuenta_destino": "95040625629486119245",
+        "monto": 1413552.89,
+        "fecha": "1987-08-05",
+        "descripcion": "Pago de factura"
+    },
+    {
+        "cuenta_origen": "56567750756459313838",
+        "cuenta_destino": "67005195334322164181",
+        "monto": 347018.78,
+        "fecha": "2011-07-01",
+        "descripcion": "Transferencia a amigo"
+    },
+    {
+        "cuenta_origen": "75645867944877825628",
+        "cuenta_destino": "13211805174104994127",
+        "monto": 1222318.01,
+        "fecha": "2009-05-26",
+        "descripcion": "Transferencia a amigo"
+    },
+    {
+        "cuenta_origen": "13375833535288906045",
+        "cuenta_destino": "29118553305081874675",
+        "monto": 1808597.07,
+        "fecha": "1988-08-01",
+        "descripcion": "Compra en tienda"
+    },
+    {
+        "cuenta_origen": "37912324568826236972",
+        "cuenta_destino": "96407705592266850046",
+        "monto": 2328918.79,
+        "fecha": "2019-02-21",
+        "descripcion": "Deposito mensual"
+    },
+    {
+        "cuenta_origen": "66535348474291236325",
+        "cuenta_destino": "06106077329026872501",
+        "monto": 79802.72,
+        "fecha": "1974-05-18",
+        "descripcion": "Compra en tienda"
+    },
+    {
+        "cuenta_origen": "13671561468384905683",
+        "cuenta_destino": "46803349578597775337",
+        "monto": 955905.5,
+        "fecha": "1981-07-14",
+        "descripcion": "Pago de factura"
+    },
+    {
+        "cuenta_origen": "28789785661642537819",
+        "cuenta_destino": "52808554912435510647",
+        "monto": 2939224.93,
+        "fecha": "2023-12-26",
+        "descripcion": "Pago de factura"
+    },
+    {
+        "cuenta_origen": "43154932085549663298",
+        "cuenta_destino": "49950433977017903416",
+        "monto": 2678357.39,
+        "fecha": "2020-11-16",
+        "descripcion": "Pago de factura"
+    },
+    {
+        "cuenta_origen": "72546540663481720009",
+        "cuenta_destino": "58690862088179742013",
+        "monto": 977068.63,
+        "fecha": "1985-09-18",
+        "descripcion": "Compra en tienda"
+    },
+    {
+        "cuenta_origen": "66535348474291236325",
+        "cuenta_destino": "50178915400596590123",
+        "monto": 746840.6,
+        "fecha": "2013-04-08",
+        "descripcion": "Deposito mensual 456"
+    },
+    {
+        "cuenta_origen": "13375833535288906045",
+        "cuenta_destino": "09848590821100948500",
+        "monto": 1918260.25,
+        "fecha": "1978-06-03",
+        "descripcion": "Pago de servicios 4567"
+    },
+    {
+        "cuenta_origen": "28789785661642537819",
+        "cuenta_destino": "17020799761326117759",
+        "monto": 1256767.0,
+        "fecha": "2025-03-11",
+        "descripcion": "Transferencia a amigo 123"
+    }
+]

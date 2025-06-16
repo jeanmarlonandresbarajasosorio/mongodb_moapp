@@ -1,0 +1,122 @@
+[
+    {
+        "nombre": "Remigio del Bermudez",
+        "correo": "octaviosebastian@vidal-lozano.net",
+        "ciudad": "Pontevedra",
+        "telefono": "+34 728498900",
+        "tipo_cliente": "Natural",
+        "profesion": "Furniture conservator/restorer"
+    },
+    {
+        "nombre": "Calisto Sanmartín-Checa",
+        "correo": "procha@nicolas.org",
+        "ciudad": "Baleares",
+        "telefono": "+34731 926 921",
+        "tipo_cliente": "Juridico",
+        "profesion": "Phytotherapist"
+    },
+    {
+        "nombre": "Eleuterio Gomila Querol",
+        "correo": "reyescorominas@hotmail.com",
+        "ciudad": "Madrid",
+        "telefono": "+34 853 826 694",
+        "tipo_cliente": "Natural",
+        "profesion": "Buyer, retail"
+    },
+    {
+        "nombre": "Ignacio de Narváez",
+        "correo": "losachucho@hotmail.com",
+        "ciudad": "Granada",
+        "telefono": "+34740 68 23 34",
+        "tipo_cliente": "Natural",
+        "profesion": "Horticultural consultant"
+    },
+    {
+        "nombre": "Marisela Ferreras-Arnaiz",
+        "correo": "puribe@moya-luque.com",
+        "ciudad": "Pontevedra",
+        "telefono": "+34719 38 91 94",
+        "tipo_cliente": "Juridico",
+        "profesion": "Corporate treasurer"
+    },
+    {
+        "nombre": "Odalis Lorenzo Pinilla",
+        "correo": "azaharbermudez@carranza.es",
+        "ciudad": "Lleida",
+        "telefono": "+34 706923955",
+        "tipo_cliente": "Natural",
+        "profesion": "Audiological scientist"
+    },
+    {
+        "nombre": "Florina Carreño Aparicio",
+        "correo": "narvaezteofilo@yahoo.com",
+        "ciudad": "Asturias",
+        "telefono": "+34 928 65 33 53",
+        "tipo_cliente": "Juridico",
+        "profesion": "Psychologist, sport and exercise"
+    },
+    {
+        "nombre": "Cornelio Castro Palomino",
+        "correo": "arielortuno@sarabia.net",
+        "ciudad": "Valladolid",
+        "telefono": "+34 931758020",
+        "tipo_cliente": "Juridico",
+        "profesion": "Buyer, industrial"
+    },
+    {
+        "nombre": "Juan Antonio Roque Múñiz Cantero",
+        "correo": "heracliojaume@canovas-penas.com",
+        "ciudad": "Álava",
+        "telefono": "+34 911 57 17 90",
+        "tipo_cliente": "Juridico",
+        "profesion": "Special educational needs teacher"
+    },
+    {
+        "nombre": "Irma Boada Sarmiento",
+        "correo": "flor89@hotmail.com",
+        "ciudad": "Toledo",
+        "telefono": "+34723272167",
+        "tipo_cliente": "Juridico",
+        "profesion": "Designer, television/film set"
+    },
+    {
+        "nombre": "Bartolomé Hernandez",
+        "correo": "cocazaira@maldonado.com",
+        "ciudad": "Lleida",
+        "telefono": "+34 717 08 13 58",
+        "tipo_cliente": "Juridico",
+        "profesion": "Office manager"
+    },
+    {
+        "nombre": "Ricarda Revilla Burgos",
+        "correo": "salcedoofelia@hotmail.com",
+        "ciudad": "Jaén",
+        "telefono": "+34 710 93 80 60",
+        "tipo_cliente": "Natural",
+        "profesion": "Public affairs consultant"
+    },
+    {
+        "nombre": "Custodia Araujo Santana",
+        "correo": "simojulio@feijoo.com",
+        "ciudad": "Alicante",
+        "telefono": "+34 715 380 348",
+        "tipo_cliente": "Natural",
+        "profesion": "Product designer"
+    },
+    {
+        "nombre": "Iris Polo-Tolosa",
+        "correo": "karco@samper.com",
+        "ciudad": "Málaga",
+        "telefono": "+34 693 070 379",
+        "tipo_cliente": "Juridico",
+        "profesion": "Chief Technology Officer"
+    },
+    {
+        "nombre": "Cloe del Mir",
+        "correo": "noguesteofilo@hotmail.com",
+        "ciudad": "Girona",
+        "telefono": "+34745 32 61 15",
+        "tipo_cliente": "Juridico",
+        "profesion": "Counsellor"
+    }
+]

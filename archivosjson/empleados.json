@@ -1,0 +1,107 @@
+[
+    {
+        "nombre": "Urbano Valerio Hervia Riera",
+        "correo": "canellaslucho@hotmail.com",
+        "cargo": "Asesor",
+        "sucursal": "Cuenca",
+        "turno": "Mañana"
+    },
+    {
+        "nombre": "Fabiola Izaguirre",
+        "correo": "german75@hotmail.com",
+        "cargo": "Cajero",
+        "sucursal": "Toledo",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Régulo Rocha Prada",
+        "correo": "adelina88@cases-vilanova.es",
+        "cargo": "Seguridad",
+        "sucursal": "Jaén",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Amalia Eva Campo Suarez",
+        "correo": "adoracion19@gmail.com",
+        "cargo": "Gerente",
+        "sucursal": "Melilla",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Nicanor Abascal Reig",
+        "correo": "susanita85@yahoo.com",
+        "cargo": "Asesor",
+        "sucursal": "Melilla",
+        "turno": "Tarde"
+    },
+    {
+        "nombre": "Francisco Javier Rovira Hernández",
+        "correo": "cguijarro@yahoo.com",
+        "cargo": "Asesor",
+        "sucursal": "Navarra",
+        "turno": "Tarde"
+    },
+    {
+        "nombre": "Jovita Roldan Tejero",
+        "correo": "ordonezcalisto@gmail.com",
+        "cargo": "Cajero",
+        "sucursal": "Ciudad",
+        "turno": "Mañana"
+    },
+    {
+        "nombre": "Amancio Pino Pina",
+        "correo": "kalcantara@segovia-estevez.com",
+        "cargo": "Gerente",
+        "sucursal": "Baleares",
+        "turno": "Tarde"
+    },
+    {
+        "nombre": "Sergio de Diaz",
+        "correo": "victoriagalvan@rodenas.es",
+        "cargo": "Asesor",
+        "sucursal": "Ciudad",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Gaspar Gil Carballo Salinas",
+        "correo": "bsevillano@hotmail.com",
+        "cargo": "Cajero",
+        "sucursal": "Salamanca",
+        "turno": "Mañana"
+    },
+    {
+        "nombre": "María Belén Piña",
+        "correo": "agomila@yahoo.com",
+        "cargo": "Cajero",
+        "sucursal": "Alicante",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Charo del Sales",
+        "correo": "jaime42@canizares-ibanez.es",
+        "cargo": "Gerente",
+        "sucursal": "La Coruña",
+        "turno": "Mañana"
+    },
+    {
+        "nombre": "Lola Regina Sala Abellán",
+        "correo": "franchildefonso@armengol-antunez.com",
+        "cargo": "Seguridad",
+        "sucursal": "Lugo",
+        "turno": "Mañana"
+    },
+    {
+        "nombre": "Emiliano Cañas Morante",
+        "correo": "iglesiateresa@gmail.com",
+        "cargo": "Seguridad",
+        "sucursal": "Guipúzcoa",
+        "turno": "Noche"
+    },
+    {
+        "nombre": "Emperatriz Bautista Carbonell",
+        "correo": "juan-francisco84@acero.com",
+        "cargo": "Gerente",
+        "sucursal": "Guipúzcoa",
+        "turno": "Mañana"
+    }
+]
